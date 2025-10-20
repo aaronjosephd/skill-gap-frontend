@@ -1,4 +1,5 @@
 <script>
+  // Responsive navbar implemented
   import "../app.css";
   import { onMount } from 'svelte';
   import { fly, fade } from 'svelte/transition';
